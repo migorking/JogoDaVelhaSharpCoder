@@ -1,0 +1,15 @@
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\bin\Debug\net6.0\JogoDaVelhav2.exe
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\bin\Debug\net6.0\JogoDaVelhav2.deps.json
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\bin\Debug\net6.0\JogoDaVelhav2.runtimeconfig.json
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\bin\Debug\net6.0\JogoDaVelhav2.dll
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\bin\Debug\net6.0\JogoDaVelhav2.pdb
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.csproj.AssemblyReference.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.AssemblyInfoInputs.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.AssemblyInfo.cs
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.dll
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\refint\JogoDaVelhav2.dll
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.pdb
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\JogoDaVelhav2.genruntimeconfig.cache
+E:\SHARPCODERS\PROJETOS SHARPCODERS\JogoDaVelhav2\obj\Debug\net6.0\ref\JogoDaVelhav2.dll
